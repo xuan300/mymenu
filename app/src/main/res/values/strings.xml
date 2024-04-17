@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yummy">美味蟹堡</string>
+    <string name="sausage">義式香腸堡</string>
+    <string name="fruit">蔬菜水果堡</string>
+    <string name="banana">香蕉潛艇堡</string>
+    <string name="welcome">歡迎光臨蟹堡王</string>
+    <string name="system">進入點餐系統</string>
+    <string name="chicken">香烤雞肉堡</string>
+    <string name="selected_items" translatable="false">您的餐點有:</string>
+</resources>
