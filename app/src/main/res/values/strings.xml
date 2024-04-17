@@ -8,4 +8,5 @@
     <string name="system">進入點餐系統</string>
     <string name="chicken">香烤雞肉堡</string>
     <string name="selected_items" translatable="false">您的餐點有:</string>
+    <string name="have">TextView</string>
 </resources>

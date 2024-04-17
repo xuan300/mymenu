@@ -32,10 +32,12 @@
         app:layout_constraintVertical_bias="0.016" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/have"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="158dp" />
+        android:text="@string/have"
+        app:layout_constraintTop_toBottomOf="@id/systembutton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
